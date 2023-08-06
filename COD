@@ -1,0 +1,8 @@
+git clone https://github.com/9834PETE-LEO/9834PETE-LEOgit add --all
+
+git commit -m "Initial commit"
+
+git push -u origin main.github.io
+cd username.github.io
+
+echo "Hello World" > index.html
